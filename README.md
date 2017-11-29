@@ -1,5 +1,5 @@
 # Fu
-Companion tool to thefuck. Based on heuristics instead of specific rules
+Companion tool to [thefuck](https://github.com/nvbn/thefuck). Based on heuristics instead of specific rules
 
 Fu could stand for a lot of things.
 
